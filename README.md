@@ -36,13 +36,3 @@ I don't just write scripts; I architect complete products. My background allows 
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=declarck&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=declarck&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
