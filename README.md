@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Adın]
+### Hi there 👋
 
 I am an independent **Solo Developer** currently building my own products.
 
